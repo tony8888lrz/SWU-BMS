@@ -1,0 +1,6 @@
+click
+Click-7.0.dist-info
+dominate-2.3.5.dist-info
+flask
+SQLAlchemy-1.2.15-py3.6.egg-info
+jinja2
