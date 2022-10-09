@@ -1,8 +1,7 @@
-# 数据结构课程设计之图书馆里系统
-## 由于FTP上传限制的缘故，这里我没有把程序所需要的环境和packet打包起来
-### 如果需要运行本程序，请一定要先安装程序所需要的包
+# data structure course design
+### before running, please satisfy the requirements
 ```{py}
 pip install requirements.txt -r
 ```
 
-## 其中可以通过测试数据.txt 文件进行对该系统的测试
+## you can work with the test, which will help you run smoothly
