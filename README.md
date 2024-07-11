@@ -29,7 +29,7 @@ python book_management_sys.py runserver
 
 ## Demo
 You can work with the test, which will help you run smoothly with this software.
-Login Page:  Account：202201  Password：123456，Subsequent pages will include route protection functionality. Below is a demonstration of the login page:
+Login Page:  Account：201803  Password：123456，Subsequent pages will include route protection functionality. Below is a demonstration of the login page:
 ![image](https://github.com/tony8888lrz/SWU-BMS/blob/main/Picture1.png)
 
 In the main menu bar, click on "Query Book Information," select the query method (Title, ISBN, Author, Category), and enter the search content for a fuzzy search. The results will be displayed in a table. If no results are found, a no results message will be displayed:
