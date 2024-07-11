@@ -50,5 +50,3 @@ Click on "Information Settings" in the side main menu to modify the currently lo
 In the top navigation bar of the login page, select "Query Book Information" or "Query Student Information." The pages and usage are the same as those for administrators:
 ![image](https://github.com/tony8888lrz/SWU-BMS/blob/main/gif/changepw.gif)
 
-# 普通用户功能使用说明
-In the top navigation bar of the login page, select "Query Book Information" or "Query Student Information." The pages and usage are the same as those for administrators:![image](https://github.com/tony8888lrz/SWU-BMS/blob/main/gif/common.gif)
