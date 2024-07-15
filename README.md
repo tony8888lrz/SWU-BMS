@@ -1,5 +1,5 @@
 ## Introduction
-This Python-based university library management system integrates a SQLite database (back-end) with a LayUI web interface (front-end). The database design strictly follows third normal form (3NF) principles to ensure data normalization and minimize redundancy (refer to data.sqlite for the schema).
+To our best knowledge, This Python-based university library management system is the first book management system integrates a SQLite database (back-end) with a LayUI web interface (front-end). The database design strictly follows third normal form (3NF) principles to ensure data normalization and minimize redundancy (refer to data.sqlite for the schema).
 ## Prerequisites
 Before running, please ensure the following requirements are met:
 - Conda (Python 3.9)
