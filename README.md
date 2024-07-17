@@ -24,7 +24,7 @@
 ## Stress Testing Methodology:
 - Locust: Used the Locust load testing tool to simulate numerous users concurrently accessing the system, evaluating performance under varying loads.
 - JMeter: Employed JMeter to stress test key API endpoints, analyzing response times, throughput, and other metrics.
-# Load Balancing (Pending):
+## Load Balancing (Pending):
 - Currently not implemented, but planned for future deployment with Nginx to improve performance and reliability.
 
 
